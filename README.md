@@ -8,6 +8,10 @@ $ python3 tab_replacer filename
 
 ## Example
 ```
+$ python3 tab_replacer.py
+usage: Continuity Tab Replacer [-h] filename
+Error: the following arguments are required: filename
+
 $ ls
 day4_continuity_file.txt
 
